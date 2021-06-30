@@ -38,7 +38,7 @@
   <ur>
 
   ## 👨‍💼Contributing👩‍💼
-  Collaboration
+  David E Pedraza
   <ur>
 
   ## 📈Test📈
