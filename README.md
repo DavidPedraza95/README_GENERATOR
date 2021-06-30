@@ -33,7 +33,7 @@
   ## 📁Usage📁
   Creating a README file.
   ## License 
-    This project is licensed with .
+    This project is licensed with none.
 
   <ur>
 
